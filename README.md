@@ -19,6 +19,7 @@ which means that functions' names are  not hidden
 Here I used ***IDA*** as disassembler
 
 After running our bomb in ***IDA*** and heading to the main we see this. 
+
 ![main](pics/main.png)
 
 Aa a quick look we find that we have 6 phases to solve 
