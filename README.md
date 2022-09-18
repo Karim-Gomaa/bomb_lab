@@ -97,6 +97,7 @@ here he just cheks that first input is less than **14**
 then we enter **fun4** taking 3 arguments (first inpute,0,14)
 
 then there is some maths are done  
+
 ![phase4-3](pics/phase4-3.png)
 ![phase4-4](pics/phase4-4.png)
 
@@ -120,6 +121,7 @@ the two wayes lead you to **"5 115"**
 ### Phase 6
 
 Our final phase and the hardest one 
+
 ![phase6-1](pics/phase6-1.png)
 
 Ha Ha **"read_six_numbers"** from **Phase 2** again
