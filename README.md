@@ -141,6 +141,7 @@ on investigating into it we find
 there are three numbers but we are interested in 2 only
 the first is **212** and it's the value of the node and second is **1** and it's the label so by checking the others  we can make this table
 ![phase6-5](pics/phase6-5.png)
+
 by reordering those numbers descendingly
 we find our pass is (**5 4 3 1 6 2**)
 
